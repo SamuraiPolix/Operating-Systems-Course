@@ -77,6 +77,6 @@ Book: OSC 7, APUE 12
 
 ## Copyright Disclaimer
 
-All study materials in this repository for the course "Operation Systems" at Ariel University are the intellectual property of Ariel University.
+All study materials in this repository for the course "Operating Systems" at Ariel University are the intellectual property of Ariel University.
 
 These materials are provided for non-commercial educational use only. You are free to use, modify, and distribute them, but please attribute Ariel University as the original creator and refrain from using them for commercial purposes without permission.
