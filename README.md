@@ -1,4 +1,4 @@
-# Operation Systems Course @ Ariel University
+# Operating Systems Course @ Ariel University
 
 ## Lectures:
 
